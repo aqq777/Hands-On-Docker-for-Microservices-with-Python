@@ -7,7 +7,7 @@ freezegun
 delorean
 faker
 pyjwt
-cryptography
+cryptography=
 parse
 psycopg2
 flake8
