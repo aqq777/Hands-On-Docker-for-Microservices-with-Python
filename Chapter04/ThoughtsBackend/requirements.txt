@@ -11,3 +11,4 @@ cryptography
 parse
 psycopg2
 flake8
+Werkzeug
