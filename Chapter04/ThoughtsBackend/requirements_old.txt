@@ -1,0 +1,14 @@
+# Application requirements
+flask
+flask-restplus
+flask-sqlalchemy
+pytest-flask
+freezegun
+delorean
+faker
+pyjwt
+cryptography
+parse
+psycopg2
+flake8
+Werkzeug
